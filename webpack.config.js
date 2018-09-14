@@ -6,7 +6,7 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 module.exports = {
 	entry: ['./js/app.js'], //entry file, may be many files separated with commas
 	output: {
-		path: path.resolve(__dirname, 'dest'), //output directory
+		path: path.resolve(__dirname, 'docs'), //output directory
 		filename: 'out.js' //output file (merge all JS-files will into one app.js file)
 	},
 	module: {
