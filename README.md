@@ -2,20 +2,7 @@
 
 # Furry Game
 
-> Gra została napisana na podstawie warsztatu stworzonego przez szkołę CodersLab.
+Game created on Coderslab bootcamp. In game you must move character (Furry, Pip-boy or Goku), collect coin and try to not die.
+You can die by moving on borders or step on movieng bomb. After you acheive third level character and bomb moving faster.
 
-## Modyfikacje
-
-> Gra została zmodyfikowana o:
-> - dodanie róznych avatarów do wyboru,
-> - levele gry,
-> - dodanie pól rozpoczęcia gry i zakończenia gry,
-> - i jeszcze coś o czym zapewne zapomniałem napisać.
-
-## Czy gra jest fajna?
-
-> Jest spoko. 
-
-**Gra została zmodyfikowana we współpracy Piotra Pirańskiego i Pawła Białka**
-
-# Wszelkie dodatkowe pomysły i komentarze mile widziane :) Szczególnie mile widziane code review ;)
+used: JavaScript, Sass
