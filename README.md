@@ -6,3 +6,5 @@ Game created on Coderslab bootcamp. In game you must move character (Furry, Pip-
 You can die by moving on borders or step on movieng bomb. After you acheive third level character and bomb moving faster.
 
 used: JavaScript, Sass
+
+https://piras999.github.io/Improved_Game/
