@@ -8,3 +8,5 @@ You can die by moving on borders or step on movieng bomb. After you acheive thir
 used: JavaScript, Sass
 
 https://piras999.github.io/Improved_Game/
+
+in cooperation with Paweł Białek/Husamoa
